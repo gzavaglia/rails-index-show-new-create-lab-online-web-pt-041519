@@ -1,0 +1,3 @@
+CouponsController < ApplicationController
+
+end
